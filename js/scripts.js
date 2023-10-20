@@ -33,9 +33,10 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-document.getElementById('masContenido2').addEventListener('click',function(){
+document.getElementById('masContenido2').addEventListener('click', function () {
     document.getElementById('leerMas2').style.display = "block"
 })
-document.getElementById('masContenido1').addEventListener('click',function(){
+document.getElementById('masContenido1').addEventListener('click', function () {
     document.getElementById('leerMas1').style.display = "block"
 })
+
