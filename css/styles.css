@@ -12552,3 +12552,10 @@ section.resume-section .resume-section-content {
   padding: 1rem;
   font-size: x-large;
 }
+
+.idioma{
+  text-decoration: none;
+  position: absolute;
+  top: 550px;
+  left: 110px;
+}
